@@ -5,3 +5,9 @@ collection of dot files and other configurations. Most of the paths and files ap
 ## Visual studio code
 
 move `settings.json` to `~/Library/Application Support/Code/User/settings.json`. Also you can press Cmd+Shift+P and search for "Preferences: Open User Settings (JSON)"
+
+## Git
+
+### working with differnt git users
+- create seperate rsa token for each user `ssh-keygen -t RSA -b 4096 -C "<email>"` 
+- adjust accordingly `ssh-config` and move to `~/.ssh/config`.
