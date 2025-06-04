@@ -40,7 +40,7 @@
   "workbench.colorTheme": "Default Dark Modern",
   "workbench.editor.wrapTabs": true,
   "workbench.editor.alwaysShowEditorActions": true,
-  "workbench.iconTheme": "vscode-icons",
+  "workbench.iconTheme": "catppuccin-mocha",
   "workbench.settings.useSplitJSON": true,
   "[javascript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
