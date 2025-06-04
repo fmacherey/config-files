@@ -10,4 +10,4 @@ move `settings.json` to `~/Library/Application Support/Code/User/settings.json`.
 
 ### working with differnt git users
 - create seperate rsa token for each user `ssh-keygen -t RSA -b 4096 -C "<email>"` 
-- adjust accordingly `ssh-config` and move to `~/.ssh/config`.
+- adjust `ssh-config` accordingly and move to `~/.ssh/config`.
