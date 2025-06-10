@@ -14,3 +14,7 @@ move `settings.json` to `~/Library/Application Support/Code/User/settings.json`.
 
 ## Vim
 - move `vimrc` to `~/.vimrc`
+
+## Shell configuration 
+- move `profile` to `~/.profile` 
+- make sure file is loaded, e.g. put `source ~/.profile` into your `~/.zshrc`
